@@ -4,6 +4,9 @@
 
 My Dashboard é um modelo de Dashboard para projetos Laravel baseado em Bootstrap 4 usando o modelo de Dashboard [SB Admin](https://startbootstrap.com/template/sb-admin), disponível gratuitamente em [Start BootStrap](https://startbootstrap.com/).
 
+Este modelo é destinado a início de Projetos e não a projetos em andamento.
+
+Estaremos providenciando um package do nosso MyDashboard para ser instalados em projetos já iniciados.
 
 # Instalação
 
@@ -17,7 +20,7 @@ $ composer install
 
 ### Plugins
 
-Os seguintes Plugins já estão inclusas no projeto
+Os seguintes Plugins já estão inclusos no projeto
 
 * [Sweet Alert](https://sweetalert2.github.io/) - Alertas Amigaveis!
 * [JQuery Mask](https://igorescobar.github.io/jQuery-Mask-Plugin/) - Mascaras para inputs em formulários.
@@ -33,4 +36,4 @@ License
 
 MIT
 
-Redme escrito com [Dillinger](https://dillinger.io/)
+Readme escrito com [Dillinger](https://dillinger.io/)

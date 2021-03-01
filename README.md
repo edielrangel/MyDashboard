@@ -13,7 +13,7 @@ Estaremos providenciando um package do nosso MyDashboard para ser instalados em 
 Para começar a usar o My Dashboard, basta clonar o projeto renomeando-o para o seu novo projeto:
 
 ```sh 
-$ sudo git clone https://github.com/edielrangel/MyDashboar.git MeuProjeto
+$ sudo git clone https://github.com/edielrangel/MyDashboard.git MeuProjeto
 $ cd MeuProjeto
 $ composer install
 ```

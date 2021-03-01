@@ -27,7 +27,7 @@ Os seguintes Plugins já estão inclusos no projeto
 
 Ao longo do desenvolvimento do projeto, mais pacotes e funcionalidades serão instalados.
 
-### Devolvimento
+### Desenvolvimento
 
 Contribua com esse projeto ajudando no seu desenvolvimento! 
 

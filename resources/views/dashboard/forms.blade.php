@@ -123,12 +123,12 @@
     <div class="card mb-4">
         <div class="card-body">
             <pre><code>
-                &lt;p&gt;script&lt;/p&gt;
+                &lt;script&gt;
                     $(document).ready(function(){
                         $('#fone').mask('(00) 00000-0000');
                         $('#cpf').mask('000.000.000-00');
                     });      
-                &lt;p&gt;/script&lt;/p&gt;
+                &lt;/script&gt;
             </code></pre>
         </div>
     </div>

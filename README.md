@@ -24,8 +24,20 @@ Os seguintes Plugins já estão inclusos no projeto
 
 * [Sweet Alert](https://sweetalert2.github.io/) - Alertas Amigaveis!
 * [JQuery Mask](https://igorescobar.github.io/jQuery-Mask-Plugin/) - Mascaras para inputs em formulários.
+* [Livewire](https://laravel-livewire.com/docs/2.x/quickstart)
 
 Ao longo do desenvolvimento do projeto, mais pacotes e funcionalidades serão instalados.
+
+#### Usando o JQuery Mask
+
+Para isso, siga o modelo do Código abaixo:
+
+    <script>
+        $(document).ready(function(){
+            $('#fone').mask('(00) 00000-0000');
+            $('#cpf').mask('000.000.000-00');
+        });
+    </script>
 
 ### Desenvolvimento
 

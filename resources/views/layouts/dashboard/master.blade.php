@@ -9,6 +9,7 @@
         <title>{{ env('APP_NAME') ?? 'My Dashboard' }}</title>
         <link href="{{ url('css/styles.css') }}" rel="stylesheet" />
         <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/js/all.min.js" crossorigin="anonymous"></script>
+        @livewireStyles
     </head>
     <body class="sb-nav-fixed">
         @include('sweetalert::alert')
@@ -88,5 +89,6 @@
         <script src="{{ url('js/scripts.js') }}"></script>
         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.0/jquery.mask.js"></script>
         @yield('js')
+        @livewireScripts
     </body>
 </html>

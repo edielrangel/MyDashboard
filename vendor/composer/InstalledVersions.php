@@ -29,7 +29,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'ca8db6c4221f708007ccf098cbd2a5a7444b72b3',
+    'reference' => '9d9cfd6b26cfa9155f74f0c920a47a59866118f0',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -477,7 +477,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'ca8db6c4221f708007ccf098cbd2a5a7444b72b3',
+      'reference' => '9d9cfd6b26cfa9155f74f0c920a47a59866118f0',
     ),
     'laravel/sail' => 
     array (
@@ -523,6 +523,15 @@ private static $installed = array (
       array (
       ),
       'reference' => '3b9dff8aaf7323590c1d2e443db701eb1f9aa0d3',
+    ),
+    'livewire/livewire' => 
+    array (
+      'pretty_version' => 'v2.4.1',
+      'version' => '2.4.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'b0cb782674673a67ddfd5910d2fcb5308bb32857',
     ),
     'mockery/mockery' => 
     array (
